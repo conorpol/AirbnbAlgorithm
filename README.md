@@ -1,5 +1,5 @@
 # AirbnbAlgorithm
-Our final project for MGSC 401 is to tackle an important question for today's tourism economy.
+A final to tackle an important question for today's tourism economy.
 
 --> How much will my place make on Airbnb?
 
